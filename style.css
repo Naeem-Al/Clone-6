@@ -1,0 +1,714 @@
+.toatlmain{
+    margin: 10px 100px;
+}
+.nav {}
+
+.bar {
+    display: flex;
+}
+
+.bar div {
+    font-size: 30px;
+}
+
+.nleft {
+    width: 900px;
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.navright {
+    display: flex;
+}
+
+.navright div {
+    padding: 10px;
+    margin-right: 70px;
+}
+
+.navright div a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+
+}
+/* end */
+
+
+
+
+.first {
+    margin-top: 20px;
+    width: 50%;
+    float: left;
+}
+
+.f {
+    padding: 15px;
+    margin-left: 100px;
+}
+
+
+.f .fs {
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 5px;
+
+}
+
+.f .fsl {
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.667);
+}
+
+.fbox {
+    display: flex;
+    width: 956px;
+    text-align: center;
+
+}
+
+.fboximg {
+    width: 100px;
+    height: 80px;
+}
+
+.fbox div {
+    width: 352px;
+}
+
+.frightimg {
+    margin-top: 20px;
+
+
+}
+
+.frightimg img {
+    width: 550px;
+    height: 380px;
+    margin-left: 150px;
+}
+
+/* end first */
+
+
+.second {
+    margin-top: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.text .texta {
+    font-size: 45px;
+    width: 400px;
+    height: 50px;
+}
+.logo2{
+    
+}
+.lineimg{
+position: absolute;
+left: 22%;}
+.lineimgg{
+    position: absolute;
+    left:43%;
+}
+   
+
+.logo2 img{ width: 250px;
+    height: 30px;
+}
+
+.text span {
+    font-size: 25px;
+}
+
+.plist {
+    font-size: 22px;
+    width: 30%;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 115px;
+}
+.plist div{
+    padding-bottom: 30px;
+}
+
+/* end */
+
+
+.our {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 25px;
+
+}
+
+.our h1 {
+  
+}
+
+.our span {}
+
+.third .ab img {
+    width: 500px;
+    height: 200;
+}
+
+/* end */
+
+
+.third .rel img {
+    width: 300px;
+    height: 400px;
+}
+
+.third .ab {
+    position: relative;
+}
+
+.third .rel {
+    position: absolute;
+    top: 69%;
+    left: 14%;
+}
+
+
+.third {
+    float: left;
+    width: 54%;
+    background-image: url("background.svg");
+
+}
+
+.asd {
+    float: left;
+}
+
+.ass {
+    position: relative;
+    margin-bottom: 50px;
+}
+
+
+.acc {
+    position: absolute;
+    top: 113%;
+    right: 31%;
+}
+
+.mokam {
+    font-size: 80px;
+    font-weight: 900;
+    color: rgba(0, 0, 0, 0.293);
+}
+
+.mokamp {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.mokamp {
+    font-size: 21px;
+}
+
+.rightt {
+    float: right;
+    width: 40%;
+    margin-right: 90px;
+    font-size: 20px;
+
+}
+.then{
+    font-size: 15px;
+    font-weight: 900;
+    margin-left: 10px;
+}
+
+.color {
+    background-color: yellow;
+    color: rgb(28, 2, 2);
+    padding: 15px;
+    margin-top: 10px;
+    width: 155px;
+    border-radius: 20px;
+    font-weight: 900;
+    font-size: 17px;
+
+}
+
+.color:hover {
+    background-color: rgba(221, 175, 114, 0.614);
+
+}
+
+
+/* end */
+
+
+.forth {
+    margin-left: 200px;
+    background-size: 100% 100%;
+    ;
+}
+
+/* end fourth */
+
+.fmain {
+    width: 100%;
+    margin-top: 300px;
+}
+
+.left {
+    width: 45%;
+    float: left;
+}
+
+.relative {
+    position: relative; 
+    font-size: 120px;
+    color: rgba(0, 0, 0, 0.503);
+    margin-left: 50px;
+}
+
+.abs {
+    position: absolute;
+    font-size: 25px;
+    top: 1935px;
+    margin-left: 70px;
+    font-weight: 500;
+
+}
+
+.fp {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.bold {
+    margin-top: 40px;
+}
+
+/* end */
+
+
+.fmain .fright {
+    width: 45%;
+}
+
+.fifthimage .small {
+    position: relative;
+}
+
+.fifthimage .big {
+    position: absolute;
+
+}
+
+.fifthimage .big img {
+    width: 400px;
+    margin-left: 1000px;
+
+}
+
+.fifthimage .small img {
+    width: 500px;
+    height: 300px;
+    margin-left: 380px;
+    margin-top: 250px;
+
+}
+
+.fyellow {
+    background-color: yellow;
+    color: rgb(28, 2, 2);
+    padding: 10px;
+    margin-top: 10px;
+    width: 200px;
+    border-radius: 20px;
+    font-weight: 900;
+    font-size: 19px;
+    cursor: pointer;
+}
+.zz{
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+span {
+    list-style: none;
+}
+
+.bold {
+    font-weight: 900;
+    font-size: 25px;
+}
+
+/* end */
+
+.six {
+    margin-top: 30px;
+    width: 100%;
+
+}
+
+.sleft {
+    width: 45%;
+    float: left;
+}
+
+.six .sleft {
+    width: 40%;
+  
+}
+
+.six .simg {
+    width: 500px;
+    position: relative;
+}
+
+.six .ssimg {
+    width: 400px;
+    position: absolute;
+    left: 400px;
+    top: 2710px;
+    display: block;
+}
+
+.sright {
+ 
+    width: 60%;
+    height: 500px;
+    float: right;
+}
+
+
+.tt {
+    float: right;
+    width: 45%;
+    margin-top: 150px;
+
+}
+
+.trel {
+    position: relative;
+
+}
+
+.tabs {
+    position: absolute;
+    top: 2662px;
+}
+
+.tt h1 {
+    font-size: 76px;
+    font-weight: 500px;
+    color: rgba(0, 0, 0, 0.373);
+
+}
+
+.sright p {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    text-align: justify;
+    margin-left:140px;
+
+}
+
+.sright span{
+    font-size: 30px;
+    margin-left:124px;
+}
+.ourapp{
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 70px;
+    
+}
+
+/* end */
+
+
+.app{
+    display: flex;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+/* end */
+
+
+.app img{
+width: 340px;
+height: 550px;
+}
+
+.blue{
+    margin-left: 166px;
+    width: 600px;
+    height: 550px;
+    background-color: blue;
+    position: relative;
+    border-style: groove;
+    border-radius: 2pc;
+}
+.red{
+    width: 600px;
+    height: 550px;
+    background-color: red;
+    position: relative;
+    border-style: groove;
+    border-radius: 2pc;
+    
+}
+.bimg{
+    position: absolute;
+    left: 24%;
+    top: 3400px;
+
+}
+.rimg{    position: absolute;
+    left: 110px;
+    top: -40px;
+
+
+
+}
+.aleft{
+    width: 50%;
+    margin-left: 100px;
+}
+.aright{
+    
+    
+}
+/* end */
+
+.testimonials{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+/* end */
+
+.twoimgflex{
+    display: flex;
+    margin-top: 100px;
+}
+.twoimgflex img{
+    width: 300px;
+}
+.textf{
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+/* end */
+
+
+.media{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+}
+.mediaimg{display: flex;
+    width: 100%;
+    
+
+}
+.mediaimg img{
+    position: relative;
+    left: 20%;
+    text-align: center;
+    width: 400px;
+
+}
+.life{
+    display: flex;
+    padding-right: 30px;
+    margin-top: 70px;
+    margin-left: 290px;
+
+}
+ .img img{
+    width: 400px;
+    height: 450px;
+    padding-right: 40px;
+    margin-left: 100px;
+
+
+
+}
+.text{
+    width: 30%;
+    text-align: justify;
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+/* end */
+
+
+.blog{ 
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size: 50px;
+    text-align: center;
+}
+/* end */
+
+.lastimg{display: flex;
+    margin: 0 20%;
+    margin-top: 80px;
+    
+    
+}
+.lastimg .rightimag{
+    margin-left: 90px;
+
+}
+
+.leftimage{
+    width: 45%;
+    float: left;
+    margin-top: 1px;
+}
+.leftimage .cvb{
+    text-align: justify;
+    width: 510px;
+
+   
+
+}
+.rightimag{
+    width: 45%;
+    float: right;
+    margin-left: 50px;
+}
+.rightimag .cvc{
+    text-align: justify;
+    width: 510px;
+
+
+}
+
+
+.rightimag span{
+    font-size: 20px;
+
+   
+}
+
+.leftimage img{
+    width: 500px;
+    height: 300px;
+    box-shadow: 0 2px 8px 0 rgba(26, 26, 26, 0.1);
+    border-radius: 8px;
+    margin: 10px;
+    background-color: white;
+   
+}
+
+.rightimag img{    
+    width: 500px;
+    height: 300px;
+    box-shadow: 0 2px 8px 0 rgba(26, 26, 26, 0.1);
+    border-radius: 8px;
+    margin: 10px;
+    background-color: white;
+    
+
+}
+/* end */
+
+.footer{
+    padding-top: 30px;
+    padding-left: 30px;
+    width: 100%;
+    height: 350px;
+    background-color: #F8F8F8;
+    display: flex;
+    margin-top:50px;
+    flex-wrap: wrap;
+    
+}
+.loctaion,.ourproduct,.DOWNLOADAPP,.connect{
+    width: 25%;
+    text-align: justify;
+    
+    
+}
+.loctaion .locationi{
+    color: blue;
+    padding-right: 2px;
+}
+.footer .connect .calli{
+    color: blue;    
+
+}
+.footer .connect .emaili{ 
+    color: blue;    padding-right: 3px;
+
+}
+.footer .connect .facebooki{
+    color:rgb(7, 4, 167);
+    font-size: 25px;    padding-right: 5px;
+
+}
+.footer .connect .instragrami{
+    color: red;
+    font-size: 25px;
+    padding-right: 5px;
+
+}
+.footer .connect .youtubei{
+    color: red;
+    font-size: 25px;    padding-right: 5px;
+
+
+}
+
+.footer div{
+    font-size: 21px;
+    padding-bottom: 20px;
+}
+.fa-solid{
+    margin-right: 2px;
+}
+
+/* end */
+
+.loyerpart{
+    width: 100%;
+    height: 150px;
+}
+.ulflex{
+    display: flex;
+}
+.ulflex li{
+    padding-right: 35px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+.loyerpart div{
+    margin-left: 30px;
+}
+.boder{
+    width: 800px;
+    border-top: 1px solid rgba(87, 77, 64, 0.627);
+}
+.bbb{
+    font-size: 20px;
+
+}
+  
